@@ -11,7 +11,7 @@ const mateus = {
 }
 ```
 ### Links: <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-<p align="right">
+<p align="left">
     <a href="https://github.com/mateusesp"><img src="imgs/github.svg" alt="GitHub"></a>
     <a href="https://twitter.com/mateusesp1"><img src="imgs/twitter.svg" alt="Twitter"></a>
     <a href="https://www.linkedin.com/in/mateus-esposito/"><img src="imgs/linkedin.svg" alt="LinkedIn"></a>
