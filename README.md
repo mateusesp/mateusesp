@@ -10,7 +10,7 @@ const mateus = {
     tools: [React, Node, Styled-Components, Docker, Jest, Spring Boot]
 }
 ```
-### Links: <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+### Links: 
 <p align="left">
     <a href="https://github.com/mateusesp"><img src="imgs/github.svg" alt="GitHub"></a>
     <a href="https://twitter.com/mateusesp1"><img src="imgs/twitter.svg" alt="Twitter"></a>
@@ -18,6 +18,7 @@ const mateus = {
     <a href="https://drive.google.com/file/d/1dcb9kGrcLwK8civcSwgFSB5K0cfULk2K/view?usp=sharing"><img src="imgs/cv.svg" alt="Curriculum Vitae"></a>
 </p>
 <!--
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 **mateusesp/mateusesp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
