@@ -11,10 +11,9 @@ const mateus = {
 }
 ```
 ### Links: 
-[GitHub](https://github.com/mateusesp)
-[Twitter](https://twitter.com/mateusesp1)
-[LinkedIn](https://www.linkedin.com/in/mateus-esposito/)
-[Curriculum Vitae](https://drive.google.com/file/d/1dcb9kGrcLwK8civcSwgFSB5K0cfULk2K/view?usp=sharing)
+:octocat: [GitHub](https://github.com/mateusesp)              
+💬 [LinkedIn](https://www.linkedin.com/in/mateus-esposito/)          
+📫 [Curriculum Vitae](https://drive.google.com/file/d/1dcb9kGrcLwK8civcSwgFSB5K0cfULk2K/view?usp=sharing)             
 
 <!-- <p align="left">
     <a href="https://github.com/mateusesp"><img src="imgs/github.svg" alt="GitHub"></a>
