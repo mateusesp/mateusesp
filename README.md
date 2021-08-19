@@ -11,8 +11,11 @@ const mateus = {
 }
 ```
 ### Links: <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-<p>
-           <a href="https://www.linkedin.com/in/terrytangyuan"><img src="imgs/linkedin.svg" alt="LinkedIn"></a>
+<p align="right">
+    <a href="https://github.com/mateusesp"><img src="imgs/github.svg" alt="GitHub"></a>
+    <a href="https://twitter.com/mateusesp1"><img src="imgs/twitter.svg" alt="Twitter"></a>
+    <a href="https://www.linkedin.com/in/mateus-esposito/"><img src="imgs/linkedin.svg" alt="LinkedIn"></a>
+    <a href="https://drive.google.com/file/d/1dcb9kGrcLwK8civcSwgFSB5K0cfULk2K/view?usp=sharing"><img src="imgs/cv.svg" alt="Curriculum Vitae"></a>
 </p>
 <!--
 **mateusesp/mateusesp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
