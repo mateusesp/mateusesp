@@ -7,7 +7,7 @@ _Full stack Developer at [Solinftec](https://solinftec.com/pt-br/)_
 ```
 const mateus = {
     code: [Javascript, Typescript, Java, Kotlin, Go]
-    tools: [React, Node, Vue.js, Angular, Docker, Jest, JUnit, Spring Framework]
+    tools: [Node, Vue.js, Angular, Cypress, Docker, Jest, JUnit, Spring Framework]
 }
 ```
 ### Links: 
