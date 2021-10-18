@@ -1,7 +1,7 @@
 ### Hi, I'm Mateus Esposito! 👋
 
 _Graduated in Analysis and systems development at [Unisalesiano](https://unisalesiano.com.br/)_       
-_Full stack Developer at [Solinftec](https://solinftec.com/pt-br/)_
+_Full Stack Developer at [Solinftec](https://solinftec.com/pt-br/)_
 
 ### **More about me...**
 ```
