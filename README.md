@@ -1,5 +1,5 @@
-### Hi, I'm Mateus Esposito! 👋
-
+## Hi, I'm Mateus Esposito! 👋
+<div align="center">
 _Graduated in Analysis and systems development at [Unisalesiano](https://unisalesiano.com.br/)_       
 _Software Development Engineer at [Qintess](https://qintess.com/)_
 
@@ -23,3 +23,7 @@ const mateus = {
 <a href = "mailto:m.espositof@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://discord.gg/PHrpWJm" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
 <a href="https://www.twitch.tv/maheltk" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>        
+    
+![Snake animation](https://github.com/mateusesp/mateusesp/blob/output/github-contribution-grid-snake.svg)
+
+</div>
