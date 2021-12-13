@@ -15,7 +15,7 @@ const mateus = {
 ---
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mateusesp&count_private=true&layout=compact&theme=nord&hide_border=true&langs_count=10&count_private=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
-<div align="center">
+
 ---
 
 ### Links: 
@@ -26,4 +26,3 @@ const mateus = {
     
 ![Snake animation](https://github.com/mateusesp/mateusesp/blob/output/github-contribution-grid-snake.svg)
 
-</div>
