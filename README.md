@@ -14,9 +14,6 @@ const mateus = {
 ```
 ---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mateusesp&count_private=true&layout=compact&theme=nord&hide_border=true&langs_count=10&count_private=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
-
----
 
 ### Links: 
 <a href="https://www.linkedin.com/in/mateus-esposito/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
