@@ -18,7 +18,7 @@ I am an experienced Backend Tech Lead specializing in building robust, highly co
 const mateus = {
     role: "Backend Tech Lead",
     coreTech: ["Java", "Spring Boot", "Go", "SQL/NoSQL", "RabbitMQ", "Kafka", "Git", "Docker", "Kubernetes", "WebSocket"],
-    specialties: ["Scalable Architecture", "AI Agents", "Event-Driven Systems", "Clean Code"],
+    specialties: ["Scalable Architecture", "AI Agents", "Event-Driven Systems"],
     location: "São Paulo, Brazil 🇧🇷"
 }
 ```
