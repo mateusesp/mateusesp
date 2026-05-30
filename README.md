@@ -33,7 +33,7 @@ const mateus = {
   </a>
 </p>
 
-*   **Languages:** Java 11+
+*   **Languages:** Java 17+
 *   **Frameworks & Libraries:** Spring Boot, Spring Security, Spring Data JPA, Webflux, LangChain4j (AI Agents)
 *   **Databases & Migrations:** PostgreSQL, Redis, Flyway DB
 *   **Architecture & Security:** Microservices, REST APIs, WebSockets (STOMP), TSIDs for high performance
